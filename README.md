@@ -31,5 +31,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antoinedumoutier&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antoinedumoutier06&theme=radical" alt="GitHub Streak" />
 </p>
