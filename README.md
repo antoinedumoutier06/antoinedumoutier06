@@ -15,8 +15,8 @@ Actuellement en BTS SIO option SLAM (Solutions Logicielles et Applications Méti
 
 ### // Tech Stack
 
-- **Langages & Runtime :** `C#` • `PHP` • `Java` • `JavaScript` • `TypeScript`
-- **Bases de données :** `MySQL` • `SQL Server`
+- **Langages & Runtime :** `C#` • `PHP` • `Java` • `JavaScript`
+- **Bases de données :** `MySQL` • `MariaDB`
 - **Tooling & DevOps :** `Git` • `Linux` • `Docker`
 
 ---
@@ -24,8 +24,9 @@ Actuellement en BTS SIO option SLAM (Solutions Logicielles et Applications Méti
 ### // Stats
 
 <p>
-  <img src="[https://github-readme-stats.vercel.app/api?username=antoinedumoutier&show_icons=true&theme=vue-dark&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=antoinedumoutier&show_icons=true&theme=vue-dark&hide_border=true&count_private=true)" alt="GitHub Stats" width="48%" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=antoinedumoutier&layout=compact&theme=vue-dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=antoinedumoutier&layout=compact&theme=vue-dark&hide_border=true)" alt="Top Langs" width="48%" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=antoinedumoutier&show_icons=true&theme=vue-dark&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=antoinedumoutier06&show_icons=true&theme=vue-dark&hide_border=true&count_private=true)" alt="GitHub Stats" width="48%" />
+  
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=antoinedumoutier&layout=compact&theme=vue-dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=antoinedumoutier06&layout=compact&theme=vue-dark&hide_border=true)" alt="Top Langs" width="48%" />
 </p>
 
 ---
