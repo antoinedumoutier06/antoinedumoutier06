@@ -5,7 +5,7 @@
 
 ### // About
 
-Actuellement en BTS SIO option SLAM (Solutions Logicielles et Applications Métiers). Je conçois des architectures logicielles, développe des applications orientées métier.
+Actuellement en BTS SIO option SLAM (Solutions Logicielles et Applications Métiers). Je conçois des architectures logicielles, développe des applications.
 
 - 🔭 **Focus actuel :** Développement applicatif robuste (.NET / C#) & écosystème web.
 - 🌐 **Portfolio :** [antoinedumoutier.fr](https://antoinedumoutier.fr)
