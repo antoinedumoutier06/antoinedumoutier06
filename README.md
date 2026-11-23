@@ -7,7 +7,7 @@
 
 Actuellement en BTS SIO option SLAM (Solutions Logicielles et Applications Métiers). Je conçois des architectures logicielles, développe des applications.
 
-- 🔭 **Focus actuel :** Développement applicatif (Java / WildFly).
+- 🔭 **Focus actuel :** Développement applicatif (Java / WildFly / SGBD ).
 - 🌐 **Portfolio :** [antoinedumoutier.fr](https://antoinedumoutier.fr)
 
 ---
