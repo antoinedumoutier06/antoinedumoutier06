@@ -27,7 +27,7 @@ Actuellement en BTS SIO option SLAM (Solutions Logicielles et Applications Méti
 </p>
   
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=antoinedumoutier06&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=antoinedumoutier06&color=42b883&style=flat-square&label=PROFILE+VIEWS" />
 </p>
 
 ---
