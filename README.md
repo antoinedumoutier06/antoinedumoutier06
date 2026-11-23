@@ -7,7 +7,7 @@
 
 Actuellement en BTS SIO option SLAM (Solutions Logicielles et Applications Métiers). Je conçois des architectures logicielles, développe des applications.
 
-- 🔭 **Focus actuel :** Développement applicatif (Java / WildFly / SGBD ).
+- 🔭 **Focus actuel :** Développement applicatif (Java / WildFly / SGBD).
 - 🌐 **Portfolio :** [antoinedumoutier.fr](https://antoinedumoutier.fr)
 
 ---
@@ -22,8 +22,9 @@ Actuellement en BTS SIO option SLAM (Solutions Logicielles et Applications Méti
 
 ### // Stats
 
-<p>
-  <img src="[https://github-readme-stats.vercel.app/api?username=antoinedumoutier06&show_icons=true&theme=vue-dark&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=antoinedumoutier06&show_icons=true&theme=vue-dark&hide_border=true&count_private=true)" alt="GitHub Stats" width="48%" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antoinedumoutier06&theme=react-dark&hide_border=true&area=true" width="100%" />
+</p>
   
   <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=antoinedumoutier06&layout=compact&theme=vue-dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=antoinedumoutier06&layout=compact&theme=vue-dark&hide_border=true)" alt="Top Langs" width="48%" />
 </p>
